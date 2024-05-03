@@ -1,5 +1,5 @@
 # IBM-Data-Science-Capstone-SpaceX
-This is my completed Applied Data Science Capstone Project from the final course in the IBM Data Science Professional Certificate. This capstone project course will gave me the chance to practice the work that data scientists do in real life when working with datasets.
+This is my completed Applied Data Science Capstone Project from the final course in the IBM Data Science Professional Certificate. This capstone project course will gave me the chance to practice the work that data scientists do when working with datasets.
 
 In this course I assumed the role of a Data Scientist working for a startup intending to compete with SpaceX, and in the process followed the Data Science methodology involving data collection, data wrangling, exploratory data analysis, data visualization, model development, model evaluation, and reporting results to stakeholders.
 
